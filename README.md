@@ -1,7 +1,8 @@
 <p>
   OpenAI Speech-To-Text service for the Freeswitch. <br>
   Features: vad, cmd api, flexible settings. <br>
-  A small installation guide can be found here: <a href="https://github.com/aks-tel/mod_openai_asr/issues/1">Fail to compile module</a>
+  A small installation guide can be found here: <a href="https://github.com/aks-tel/mod_openai_asr/issues/1">Fail to compile module</a> <br>
+  There's a commercial version offering extended functionality and support, <a href="https://akstel.org/?p=fs_stt" target="_blank"> see here </a>
 </p>
 
 ### Dialplan example
